@@ -1,4 +1,4 @@
-const CACHE='issp-cadetes-v2';
+const CACHE='issp-cadetes-v3';
 const ASSETS=['./manifest.webmanifest','./icon-192.png','./icon-512.png','./apple-touch-icon.png'];
 self.addEventListener('install',event=>{
   self.skipWaiting();
